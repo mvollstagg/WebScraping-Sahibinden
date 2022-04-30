@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m8yQjUafOuMzG0tOtm+GVDbUsWhkiOLQuLaCcqs6JfZYdpNZ3z50hYW50P5eqiR3X+Mhr0DcIY9+JBpAlruCTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Documents\\Github\\WebScraping-Sahibinden\\WebScraping-Sahibinden.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\htmlagilitypack\\1.11.42\\htmlagilitypack.1.11.42.nupkg.sha512"
+  ],
+  "logs": []
+}

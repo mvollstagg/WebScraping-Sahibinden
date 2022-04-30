@@ -1,0 +1,17 @@
+C:\Users\PC\Documents\Github\WebScraping-Sahibinden\bin\Debug\net6.0\WebScraping-Sahibinden.exe
+C:\Users\PC\Documents\Github\WebScraping-Sahibinden\bin\Debug\net6.0\WebScraping-Sahibinden.deps.json
+C:\Users\PC\Documents\Github\WebScraping-Sahibinden\bin\Debug\net6.0\WebScraping-Sahibinden.runtimeconfig.json
+C:\Users\PC\Documents\Github\WebScraping-Sahibinden\bin\Debug\net6.0\WebScraping-Sahibinden.dll
+C:\Users\PC\Documents\Github\WebScraping-Sahibinden\bin\Debug\net6.0\ref\WebScraping-Sahibinden.dll
+C:\Users\PC\Documents\Github\WebScraping-Sahibinden\bin\Debug\net6.0\WebScraping-Sahibinden.pdb
+C:\Users\PC\Documents\Github\WebScraping-Sahibinden\obj\Debug\net6.0\WebScraping-Sahibinden.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Github\WebScraping-Sahibinden\obj\Debug\net6.0\WebScraping-Sahibinden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Github\WebScraping-Sahibinden\obj\Debug\net6.0\WebScraping-Sahibinden.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Github\WebScraping-Sahibinden\obj\Debug\net6.0\WebScraping-Sahibinden.AssemblyInfo.cs
+C:\Users\PC\Documents\Github\WebScraping-Sahibinden\obj\Debug\net6.0\WebScraping-Sahibinden.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Github\WebScraping-Sahibinden\obj\Debug\net6.0\WebScraping-Sahibinden.dll
+C:\Users\PC\Documents\Github\WebScraping-Sahibinden\obj\Debug\net6.0\ref\WebScraping-Sahibinden.dll
+C:\Users\PC\Documents\Github\WebScraping-Sahibinden\obj\Debug\net6.0\WebScraping-Sahibinden.pdb
+C:\Users\PC\Documents\Github\WebScraping-Sahibinden\obj\Debug\net6.0\WebScraping-Sahibinden.genruntimeconfig.cache
+C:\Users\PC\Documents\Github\WebScraping-Sahibinden\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\PC\Documents\Github\WebScraping-Sahibinden\obj\Debug\net6.0\WebScraping-Sahibinden.csproj.CopyComplete
